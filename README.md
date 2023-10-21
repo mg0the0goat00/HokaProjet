@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Thief - Cat v8 🐱
+  HakaProjectV1 🐱
 </h1>
 
 
@@ -8,15 +8,6 @@
 
 ![](https://www.dailymotion.com/video/k6j06fNNLxmYiHzbTHU)
 
-
-
-# API URL = hawkish.eu click on the video on the top to see how to create it (in 30sec max)
-[![SHOWCASE](https://s1.dmcdn.net/v/U_gzM1aWFvjGrFaU3/x240)](https://dai.ly/k6j06fNNLxmYiHzbTHU)
-
-
-
-
-##### [Join for premium](https://t.me/Sordeal)
 
 
 ## <a id="content"></a>🌐 〢 Content
@@ -35,8 +26,8 @@
 0. Create your API LINK here https://hawkish.eu/
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 2. Install [Files](https://github.com/KSCH-58/Thief-Cat/archive/refs/heads/main.zip)
-3. Install all requirements [install.bat](https://github.com/KSCH-58/Thief-Cat/blob/main/install.bat)
-4. Click on start.bat [start.bat](https://github.com/KSCH-58/Thief-Cat/blob/main/start.bat)
+3. Install all requirements [install.bat]
+4. Click on HokaProjectV1
 5. Complete the configuration
 6. You have your .exe/.py file enjoy
 
